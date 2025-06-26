@@ -1,0 +1,27 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# Visual Studio / JetBrains
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.suo
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Collab and Rider
+.collabignore
+.idea/
+
+# User-specific settings
+UserSettings/
