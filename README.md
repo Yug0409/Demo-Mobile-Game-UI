@@ -42,13 +42,19 @@ Welcome to **CubeLink**, a beautifully styled **UI demo project** created in Uni
 
 ## 📸 Screenshots
 
-### Opening Screen
-![Opening](Pictures/Screenshot 2025-06-27 032850.png)
+### Start Scene
+![Start](Pictures/StartScene.png)
 
-### About Panel
-![About](Screenshots/about.png)
+### Info Panel
+![Info](Pictures/Info.png)
 
 ### Settings Panel
-![Settings](Screenshots/settings.png)
+![Settings](Pictures/Settings.png)
+
+### MainMenu Scene
+![MainMenu](Pictures/MainMenu.png)
+
+### Exit Panel
+![Exit](Pictures/Exit.png)
 
 
